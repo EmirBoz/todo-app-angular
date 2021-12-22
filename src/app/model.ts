@@ -3,7 +3,7 @@ export class Model {
   items;
 
   constructor() {
-    this.user = 'Emir';
+    this.user = 'Someone';
     this.items = [
                   new TodoItem('Sport',true),
                   new TodoItem('Breakfast',false),
